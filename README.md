@@ -38,6 +38,7 @@ strategies. Traditional static asset allocation models, which assume constant ri
 struggle to effectively navigate through periods of heightened market volatility. Therefore, there is a 
 compelling need to explore dynamic asset allocation strategies that can dynamically adjust portfolio weights 
 in response to changing market conditions. 
+
 **Aim:** 
 This project’s main goal is to research and apply dynamic asset allocation strategies that can improve 
 portfolio performance by adjusting to different market volatility levels. In particular, the project would make 
