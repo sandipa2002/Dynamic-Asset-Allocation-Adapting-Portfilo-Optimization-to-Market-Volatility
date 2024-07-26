@@ -25,6 +25,7 @@ resilience, improve risk-adjusted returns, and contribute to the overall stabili
 ever-changing financial landscape.
 
 **MOTIVATION & AIM** 
+
 **Motivation:** 
 The financial markets are by their very nature dynamic, impacted by a wide range of variables like market 
 mood, geopolitical developments, and economic statistics. Increased volatility, defined by abrupt and erratic 
@@ -57,6 +58,7 @@ for handling complex optimization problems with numerous variables, providing an
 effective means of finding the optimal portfolio allocation. 
 
 **PROBLEM STATEMENT** 
+
 Traditional optimization techniques relying on mathematical derivatives face significant hurdles when 
 confronted with the dynamic and multifaceted nature of financial markets. The non-linear relationships, high 
 dimensionality, and rapid changes inherent in financial data make these conventional methods less effective 
@@ -81,6 +83,7 @@ method for achieving superior portfolio performance, thereby contributing to the
 investment strategies in the financial sector. 
 
 **METHODOLOGY**
+
 The information used in this study came from the MONEY CONTROL website and matched the Indian Stock 
 Market's stock values for the fiscal years 2019 through 2024. The stock closing values of multiple companies 
 from April 1, 2019, to March 31, 2024 are included in the dataset. I have gathered historical Nifty 50 company 
