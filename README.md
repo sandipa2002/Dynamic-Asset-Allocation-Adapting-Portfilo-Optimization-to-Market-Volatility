@@ -47,6 +47,7 @@ patterns of market volatility throughout this period by utilizing advanced stati
 approaches. 
 
 **OBJECTIVE** 
+
 ▪ Maximize Returns with Minimum Risk: The primary goal is to optimize the portfolio of stocks 
 from the Nifty 50 companies to achieve the highest possible returns while minimizing associated risks. 
 This entails building an effective portfolio by carefully weighing the trade-off between risk and return. 
