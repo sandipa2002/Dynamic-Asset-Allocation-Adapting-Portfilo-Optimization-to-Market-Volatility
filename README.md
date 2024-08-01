@@ -84,7 +84,7 @@ adjusting the portfolio in response to real-time data, this approach promises a 
 method for achieving superior portfolio performance, thereby contributing to the ongoing evolution of 
 investment strategies in the financial sector. 
 
-**METHODOLOGY**
+**METHODOLOGY & RESULT**
 
 The information used in this study came from the MONEY CONTROL website and matched the Indian Stock 
 Market's stock values for the fiscal years 2019 through 2024. The stock closing values of multiple companies 
